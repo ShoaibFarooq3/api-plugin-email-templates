@@ -1,7 +1,7 @@
 {
-  "name": "@shoaibfarooq3/ranchers-api-plugin-email-templates",
+  "name": "@codistan-isb/ranchers-api-plugin-email-templates",
   "description": "Email Templates plugin for the Reaction API",
-  "version": "3.0.8-development",
+  "version": "3.0.9-development",
   "main": "index.js",
   "type": "module",
   "engines": {
