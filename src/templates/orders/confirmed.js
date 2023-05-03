@@ -144,7 +144,7 @@ export default `
                               <td height="31" align="left" valign="top" style="font-size:1px; line-height:1px;">&nbsp;</td>
                             </tr>
                             <tr>
-                              <td align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; font-weight:bold; line-height:22px; color:#1e98d5;">Order Placed. Waiting for Confirmation.</td>
+                              <td align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:22px; font-weight:bold; line-height:22px; color:#1e98d5;">Order Confirmation</td>
                             </tr>
                             <!-- End Header -->
 
